@@ -1,0 +1,9 @@
+# Supabase Project Configuration
+# Update this with your new Supabase project ID when migrating
+# You can find your project ID in your Supabase project URL or settings
+# 
+# Note: This file is only needed if you're using Supabase CLI locally
+# If you're not using CLI, you can ignore this file
+
+project_id = "myfbaamuxomkbkuivbkz"
+# Old Lovable project ID: ktknbcffzerkahwdcxvr
