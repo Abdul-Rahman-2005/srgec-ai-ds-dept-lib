@@ -4,5 +4,7 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
-  ]
+  ],
+  "buildCommand": "npm run build",  // Or your custom command
+  "outputDirectory": "dist"  // Or "build" if that's where your files go
 }
